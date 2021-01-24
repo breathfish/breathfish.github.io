@@ -116,8 +116,8 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: /favicon.png
-logo: /medias/logo.png
+favicon: /favicon.ico
+logo: /medias/avatar.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -546,8 +546,7 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 鱼对水说你看不到我的眼泪，因为我在水里．水说我能感觉到你的眼泪，因为你在我心里。
-    - ”You couldn’t see my tears cause I am in the water.” Fish said to water. “But I could feel your tears cause you are in me.” Answered water.
+    - Breathfish
 
 # 手机二级菜单.
 navMenu:
